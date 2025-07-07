@@ -16,4 +16,4 @@ This is the working protoype It have
  3. FigJam ( UserFlow & Wireframing )
 
 **How to run:** 
-This is the prototype lin --> https://www.figma.com/design/LU9EyXcl5DwZ8RKNPxdRiz/PlantIQ?node-id=138-256&t=5xhX844DW5fABo4K-1
+This is the prototype link --> https://www.figma.com/design/LU9EyXcl5DwZ8RKNPxdRiz/PlantIQ?node-id=138-256&t=5xhX844DW5fABo4K-1
